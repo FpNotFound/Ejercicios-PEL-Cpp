@@ -1,0 +1,15 @@
+# CLion
+.idea/
+
+# CMake
+cmake-build-*/
+cmake-build-debug/
+cmake-build-release/
+
+# Compilación
+*.exe
+*.o
+*.obj
+
+# Archivos temporales
+*.log
